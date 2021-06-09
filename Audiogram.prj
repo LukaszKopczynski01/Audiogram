@@ -1,0 +1,63 @@
+<deployment-project plugin="plugin.apptool" plugin-version="1.0">
+  <configuration build-checksum="2394786738" file="D:\Audiogram - Projekt na akustyczne\Audiogram.prj" location="D:\Audiogram - Projekt na akustyczne" name="Audiogram" target="target.mlapps" target-name="Package App">
+    <param.appname>Audiogram</param.appname>
+    <param.authnamewatermark>Lucas and Jackob</param.authnamewatermark>
+    <param.email />
+    <param.company />
+    <param.icon />
+    <param.icons />
+    <param.summary />
+    <param.description />
+    <param.screenshot>C:\Users\mateu\AppData\Local\Temp\tp935a85dd_6f32_4e90_9b7d_01e54249b4ec.png</param.screenshot>
+    <param.version>1.0</param.version>
+    <param.products.name />
+    <param.products.id />
+    <param.products.version />
+    <param.platforms />
+    <param.output>${PROJECT_ROOT}</param.output>
+    <param.guid>317d36e6-80b1-445c-bf32-43cb4f3bd887</param.guid>
+    <unset>
+      <param.email />
+      <param.company />
+      <param.icon />
+      <param.icons />
+      <param.summary />
+      <param.description />
+      <param.version />
+      <param.products.name />
+      <param.products.id />
+      <param.products.version />
+      <param.platforms />
+      <param.output />
+    </unset>
+    <fileset.main>
+      <file>${PROJECT_ROOT}\Audiogram.mlapp</file>
+    </fileset.main>
+    <fileset.depfun />
+    <fileset.resources />
+    <fileset.package />
+    <build-deliverables>
+      <file location="D:\" name="Audiogram - Projekt na akustyczne" optional="false">D:\Audiogram - Projekt na akustyczne</file>
+    </build-deliverables>
+    <workflow />
+    <matlab>
+      <root>D:\MATLAB</root>
+      <toolboxes />
+    </matlab>
+    <platform>
+      <unix>false</unix>
+      <mac>false</mac>
+      <windows>true</windows>
+      <win2k>false</win2k>
+      <winxp>false</winxp>
+      <vista>false</vista>
+      <linux>false</linux>
+      <solaris>false</solaris>
+      <osver>10.0</osver>
+      <os32>false</os32>
+      <os64>true</os64>
+      <arch>win64</arch>
+      <matlab>true</matlab>
+    </platform>
+  </configuration>
+</deployment-project>
